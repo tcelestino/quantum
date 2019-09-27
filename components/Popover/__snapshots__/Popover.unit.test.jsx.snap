@@ -30,7 +30,7 @@ exports[`Popover component  Snapshots should match snapshots 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -42,6 +42,7 @@ exports[`Popover component  Snapshots should match snapshots 1`] = `
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -84,7 +85,7 @@ exports[`Popover component  Snapshots should match snapshots 1`] = `
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "cursor:pointer;",
@@ -96,6 +97,7 @@ exports[`Popover component  Snapshots should match snapshots 1`] = `
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -149,7 +151,7 @@ exports[`Popover component  Snapshots should match snapshots 2`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -161,6 +163,7 @@ exports[`Popover component  Snapshots should match snapshots 2`] = `
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -203,7 +206,7 @@ exports[`Popover component  Snapshots should match snapshots 2`] = `
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "cursor:pointer;",
@@ -215,6 +218,7 @@ exports[`Popover component  Snapshots should match snapshots 2`] = `
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -268,7 +272,7 @@ exports[`Popover component  Snapshots should match snapshots 3`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -280,6 +284,7 @@ exports[`Popover component  Snapshots should match snapshots 3`] = `
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -322,7 +327,7 @@ exports[`Popover component  Snapshots should match snapshots 3`] = `
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "cursor:pointer;",
@@ -334,6 +339,7 @@ exports[`Popover component  Snapshots should match snapshots 3`] = `
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -387,7 +393,7 @@ exports[`Popover component  Snapshots should match snapshots 4`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -399,6 +405,7 @@ exports[`Popover component  Snapshots should match snapshots 4`] = `
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -441,7 +448,7 @@ exports[`Popover component  Snapshots should match snapshots 4`] = `
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "cursor:pointer;",
@@ -453,6 +460,7 @@ exports[`Popover component  Snapshots should match snapshots 4`] = `
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -506,7 +514,7 @@ exports[`Popover component  Snapshots should match snapshots 5`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -518,6 +526,7 @@ exports[`Popover component  Snapshots should match snapshots 5`] = `
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -560,7 +569,7 @@ exports[`Popover component  Snapshots should match snapshots 5`] = `
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "cursor:pointer;",
@@ -572,6 +581,7 @@ exports[`Popover component  Snapshots should match snapshots 5`] = `
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -625,7 +635,7 @@ exports[`Popover component  Snapshots should match snapshots 6`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -637,6 +647,7 @@ exports[`Popover component  Snapshots should match snapshots 6`] = `
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -679,7 +690,7 @@ exports[`Popover component  Snapshots should match snapshots 6`] = `
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "cursor:pointer;",
@@ -691,6 +702,7 @@ exports[`Popover component  Snapshots should match snapshots 6`] = `
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -744,7 +756,7 @@ exports[`Popover component  Snapshots should match snapshots 7`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -756,6 +768,7 @@ exports[`Popover component  Snapshots should match snapshots 7`] = `
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -798,7 +811,7 @@ exports[`Popover component  Snapshots should match snapshots 7`] = `
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "cursor:pointer;",
@@ -810,6 +823,7 @@ exports[`Popover component  Snapshots should match snapshots 7`] = `
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -863,7 +877,7 @@ exports[`Popover component  Snapshots should match snapshots 8`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -875,6 +889,7 @@ exports[`Popover component  Snapshots should match snapshots 8`] = `
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -917,7 +932,7 @@ exports[`Popover component  Snapshots should match snapshots 8`] = `
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c1",
                   "rules": Array [
                     "cursor:pointer;",
@@ -929,6 +944,7 @@ exports[`Popover component  Snapshots should match snapshots 8`] = `
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -1153,7 +1169,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -1165,6 +1181,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -1429,7 +1446,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   pointer-events: none;
 }
 
-.c2 {
+.c1 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -1461,23 +1478,23 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c2:hover {
+.c1:hover {
   box-shadow: 0px 2px 4px -1px rgba(76,76,76,0.2),0px 4px 5px 0px rgba(76,76,76,0.14),0px 1px 10px 0px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
   border-color: #4c4c4c;
 }
 
-.c2:focus,
-.c2:focus-within {
+.c1:focus,
+.c1:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(153,153,153,0.2),0px 4px 5px 0px rgba(153,153,153,0.14),0px 1px 10px 0px rgba(153,153,153,0.12);
 }
 
-.c2:active {
+.c1:active {
   box-shadow: 0px 5px 5px -3px rgba(76,76,76,0.2),0px 8px 10px 1px rgba(76,76,76,0.14),0px 3px 14px 2px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
 }
 
-.c2 .c3 function (_ref5) {
+.c1 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -1485,7 +1502,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c2 .c3 function (_ref5) var sizes = {
+.c1 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
@@ -1524,7 +1541,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   transform: translateX(-50%);
 }
 
-.c1 {
+.c2 {
   border-radius: 50%;
   border: none;
   color: rgba(153,153,153,0.5);
@@ -1543,24 +1560,24 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   width: auto;
 }
 
-.c1 .c3 {
+.c2 .c3 {
   margin-right: 0;
 }
 
-.c1:hover,
-.c1:focus {
+.c2:hover,
+.c2:focus {
   box-shadow: none;
   background-color: rgba(204,204,204,0.4);
   color: #4c4c4c;
 }
 
-.c1:active {
+.c2:active {
   box-shadow: none;
   background-color: rgba(204,204,204,0.5);
   color: #4c4c4c;
 }
 
-.c1:hover {
+.c2:hover {
   background: none;
   opacity: 1;
   color: #4c4c4c;
@@ -1872,6 +1889,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                     "styledComponentId": "Content__PopoverContent-sc-1005q1-0",
                     "target": "div",
                     "toString": [Function],
+                    "usesTheme": true,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -2113,7 +2131,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "Content__PopoverChildren-sc-1005q1-2",
-                            "isStatic": true,
+                            "isStatic": false,
                             "lastClassName": "ihRKEi",
                             "rules": Array [],
                           },
@@ -2123,6 +2141,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__PopoverChildren-sc-1005q1-2",
                           "target": "div",
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -2364,26 +2383,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                       forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": Array [
-                            Object {
-                              "icon": "close",
-                            },
-                          ],
-                          "componentStyle": ComponentStyle {
-                            "componentId": "Content__CloseButton-sc-1005q1-1",
-                            "isStatic": false,
-                            "lastClassName": "c2",
-                            "rules": Array [
-                              [Function],
-                              [Function],
-                              " display:inherit;height:auto;",
-                              [Function],
-                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
-                              [Function],
-                              "}",
-                            ],
-                          },
-                          "defaultProps": Object {
+                          "_foldedDefaultProps": Object {
                             "size": "medium",
                             "skin": "neutral",
                             "theme": Object {
@@ -2539,6 +2539,25 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                               },
                             },
                           },
+                          "attrs": Array [
+                            Object {
+                              "icon": "close",
+                            },
+                          ],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Content__CloseButton-sc-1005q1-1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              [Function],
+                              [Function],
+                              " display:inherit;height:auto;",
+                              [Function],
+                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
+                              [Function],
+                              "}",
+                            ],
+                          },
                           "displayName": "CloseButton",
                           "foldedComponentIds": Array [
                             "Button__IconButton-sc-1ovnfsw-2",
@@ -2552,6 +2571,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__CloseButton-sc-1005q1-1",
                           "target": [Function],
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -3276,6 +3296,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                 "styledComponentId": "Button__StyledButton-sc-1ovnfsw-1",
                                 "target": "button",
                                 "toString": [Function],
+                                "usesTheme": true,
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -3508,7 +3529,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                             type="button"
                           >
                             <button
-                              className="c2 c3"
+                              className="c3 c2"
                               disabled={false}
                               onClick={[Function]}
                               size="medium"
@@ -3756,6 +3777,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                       "styledComponentId": "c4",
                                       "target": [Function],
                                       "toString": [Function],
+                                      "usesTheme": true,
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
                                     }
@@ -4933,7 +4955,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c6",
                   "rules": Array [
                     "cursor:pointer;",
@@ -4945,6 +4967,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -5169,7 +5192,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -5181,6 +5204,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -5445,7 +5469,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   pointer-events: none;
 }
 
-.c2 {
+.c1 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -5477,23 +5501,23 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c2:hover {
+.c1:hover {
   box-shadow: 0px 2px 4px -1px rgba(76,76,76,0.2),0px 4px 5px 0px rgba(76,76,76,0.14),0px 1px 10px 0px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
   border-color: #4c4c4c;
 }
 
-.c2:focus,
-.c2:focus-within {
+.c1:focus,
+.c1:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(153,153,153,0.2),0px 4px 5px 0px rgba(153,153,153,0.14),0px 1px 10px 0px rgba(153,153,153,0.12);
 }
 
-.c2:active {
+.c1:active {
   box-shadow: 0px 5px 5px -3px rgba(76,76,76,0.2),0px 8px 10px 1px rgba(76,76,76,0.14),0px 3px 14px 2px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
 }
 
-.c2 .c3 function (_ref5) {
+.c1 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -5501,7 +5525,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c2 .c3 function (_ref5) var sizes = {
+.c1 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
@@ -5540,7 +5564,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   transform: translateX(-50%);
 }
 
-.c1 {
+.c2 {
   border-radius: 50%;
   border: none;
   color: rgba(153,153,153,0.5);
@@ -5559,24 +5583,24 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   width: auto;
 }
 
-.c1 .c3 {
+.c2 .c3 {
   margin-right: 0;
 }
 
-.c1:hover,
-.c1:focus {
+.c2:hover,
+.c2:focus {
   box-shadow: none;
   background-color: rgba(204,204,204,0.4);
   color: #4c4c4c;
 }
 
-.c1:active {
+.c2:active {
   box-shadow: none;
   background-color: rgba(204,204,204,0.5);
   color: #4c4c4c;
 }
 
-.c1:hover {
+.c2:hover {
   background: none;
   opacity: 1;
   color: #4c4c4c;
@@ -5888,6 +5912,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                     "styledComponentId": "Content__PopoverContent-sc-1005q1-0",
                     "target": "div",
                     "toString": [Function],
+                    "usesTheme": true,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -6129,7 +6154,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "Content__PopoverChildren-sc-1005q1-2",
-                            "isStatic": true,
+                            "isStatic": false,
                             "lastClassName": "ihRKEi",
                             "rules": Array [],
                           },
@@ -6139,6 +6164,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__PopoverChildren-sc-1005q1-2",
                           "target": "div",
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -6380,26 +6406,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                       forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": Array [
-                            Object {
-                              "icon": "close",
-                            },
-                          ],
-                          "componentStyle": ComponentStyle {
-                            "componentId": "Content__CloseButton-sc-1005q1-1",
-                            "isStatic": false,
-                            "lastClassName": "c2",
-                            "rules": Array [
-                              [Function],
-                              [Function],
-                              " display:inherit;height:auto;",
-                              [Function],
-                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
-                              [Function],
-                              "}",
-                            ],
-                          },
-                          "defaultProps": Object {
+                          "_foldedDefaultProps": Object {
                             "size": "medium",
                             "skin": "neutral",
                             "theme": Object {
@@ -6555,6 +6562,25 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                               },
                             },
                           },
+                          "attrs": Array [
+                            Object {
+                              "icon": "close",
+                            },
+                          ],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Content__CloseButton-sc-1005q1-1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              [Function],
+                              [Function],
+                              " display:inherit;height:auto;",
+                              [Function],
+                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
+                              [Function],
+                              "}",
+                            ],
+                          },
                           "displayName": "CloseButton",
                           "foldedComponentIds": Array [
                             "Button__IconButton-sc-1ovnfsw-2",
@@ -6568,6 +6594,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__CloseButton-sc-1005q1-1",
                           "target": [Function],
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -7292,6 +7319,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                 "styledComponentId": "Button__StyledButton-sc-1ovnfsw-1",
                                 "target": "button",
                                 "toString": [Function],
+                                "usesTheme": true,
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -7524,7 +7552,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                             type="button"
                           >
                             <button
-                              className="c2 c3"
+                              className="c3 c2"
                               disabled={false}
                               onClick={[Function]}
                               size="medium"
@@ -7772,6 +7800,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                       "styledComponentId": "c4",
                                       "target": [Function],
                                       "toString": [Function],
+                                      "usesTheme": true,
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
                                     }
@@ -8949,7 +8978,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c6",
                   "rules": Array [
                     "cursor:pointer;",
@@ -8961,6 +8990,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -9201,7 +9231,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -9213,6 +9243,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -9489,7 +9520,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
-.c2 {
+.c1 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -9521,23 +9552,23 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c2:hover {
+.c1:hover {
   box-shadow: 0px 2px 4px -1px rgba(107,200,24,0.2),0px 4px 5px 0px rgba(107,200,24,0.14),0px 1px 10px 0px rgba(107,200,24,0.12);
   background-color: #6bc818;
   border-color: #6bc818;
 }
 
-.c2:focus,
-.c2:focus-within {
+.c1:focus,
+.c1:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(126,211,33,0.2),0px 4px 5px 0px rgba(126,211,33,0.14),0px 1px 10px 0px rgba(126,211,33,0.12);
 }
 
-.c2:active {
+.c1:active {
   box-shadow: 0px 5px 5px -3px rgba(107,200,24,0.2),0px 8px 10px 1px rgba(107,200,24,0.14),0px 3px 14px 2px rgba(107,200,24,0.12);
   background-color: #6bc818;
 }
 
-.c2 .c3 function (_ref5) {
+.c1 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -9545,7 +9576,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c2 .c3 function (_ref5) var sizes = {
+.c1 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
@@ -9588,7 +9619,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   margin-right: 0;
 }
 
-.c1 {
+.c2 {
   border-radius: 50%;
   border: none;
   color: rgba(126,211,33,0.5);
@@ -9607,24 +9638,24 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   width: auto;
 }
 
-.c1 .c3 {
+.c2 .c3 {
   margin-right: 0;
 }
 
-.c1:hover,
-.c1:focus {
+.c2:hover,
+.c2:focus {
   box-shadow: none;
   background-color: rgba(165,224,100,0.4);
   color: #6bc818;
 }
 
-.c1:active {
+.c2:active {
   box-shadow: none;
   background-color: rgba(165,224,100,0.5);
   color: #6bc818;
 }
 
-.c1:hover {
+.c2:hover {
   background: none;
   opacity: 1;
   color: #3c6510;
@@ -9936,6 +9967,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                     "styledComponentId": "Content__PopoverContent-sc-1005q1-0",
                     "target": "div",
                     "toString": [Function],
+                    "usesTheme": true,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -10177,7 +10209,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "Content__PopoverChildren-sc-1005q1-2",
-                            "isStatic": true,
+                            "isStatic": false,
                             "lastClassName": "ihRKEi",
                             "rules": Array [],
                           },
@@ -10187,6 +10219,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__PopoverChildren-sc-1005q1-2",
                           "target": "div",
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -10428,26 +10461,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                       forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": Array [
-                            Object {
-                              "icon": "close",
-                            },
-                          ],
-                          "componentStyle": ComponentStyle {
-                            "componentId": "Content__CloseButton-sc-1005q1-1",
-                            "isStatic": false,
-                            "lastClassName": "c2",
-                            "rules": Array [
-                              [Function],
-                              [Function],
-                              " display:inherit;height:auto;",
-                              [Function],
-                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
-                              [Function],
-                              "}",
-                            ],
-                          },
-                          "defaultProps": Object {
+                          "_foldedDefaultProps": Object {
                             "size": "medium",
                             "skin": "neutral",
                             "theme": Object {
@@ -10603,6 +10617,25 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                               },
                             },
                           },
+                          "attrs": Array [
+                            Object {
+                              "icon": "close",
+                            },
+                          ],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Content__CloseButton-sc-1005q1-1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              [Function],
+                              [Function],
+                              " display:inherit;height:auto;",
+                              [Function],
+                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
+                              [Function],
+                              "}",
+                            ],
+                          },
                           "displayName": "CloseButton",
                           "foldedComponentIds": Array [
                             "Button__IconButton-sc-1ovnfsw-2",
@@ -10616,6 +10649,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__CloseButton-sc-1005q1-1",
                           "target": [Function],
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -11340,6 +11374,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                 "styledComponentId": "Button__StyledButton-sc-1ovnfsw-1",
                                 "target": "button",
                                 "toString": [Function],
+                                "usesTheme": true,
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -11572,7 +11607,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                             type="button"
                           >
                             <button
-                              className="c2 c3"
+                              className="c3 c2"
                               disabled={false}
                               onClick={[Function]}
                               size="medium"
@@ -11820,6 +11855,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                       "styledComponentId": "c4",
                                       "target": [Function],
                                       "toString": [Function],
+                                      "usesTheme": true,
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
                                     }
@@ -12997,7 +13033,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c6",
                   "rules": Array [
                     "cursor:pointer;",
@@ -13009,6 +13045,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -13265,7 +13302,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -13277,6 +13314,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -13565,7 +13603,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
-.c2 {
+.c1 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -13597,23 +13635,23 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c2:hover {
+.c1:hover {
   box-shadow: 0px 2px 4px -1px rgba(236,126,0,0.2),0px 4px 5px 0px rgba(236,126,0,0.14),0px 1px 10px 0px rgba(236,126,0,0.12);
   background-color: #ec7e00;
   border-color: #ec7e00;
 }
 
-.c2:focus,
-.c2:focus-within {
+.c1:focus,
+.c1:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(240,145,0,0.2),0px 4px 5px 0px rgba(240,145,0,0.14),0px 1px 10px 0px rgba(240,145,0,0.12);
 }
 
-.c2:active {
+.c1:active {
   box-shadow: 0px 5px 5px -3px rgba(236,126,0,0.2),0px 8px 10px 1px rgba(236,126,0,0.14),0px 3px 14px 2px rgba(236,126,0,0.12);
   background-color: #ec7e00;
 }
 
-.c2 .c3 function (_ref5) {
+.c1 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -13621,7 +13659,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c2 .c3 function (_ref5) var sizes = {
+.c1 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
@@ -13668,7 +13706,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   margin-right: 0;
 }
 
-.c1 {
+.c2 {
   border-radius: 50%;
   border: none;
   color: rgba(240,145,0,0.5);
@@ -13687,24 +13725,24 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   width: auto;
 }
 
-.c1 .c3 {
+.c2 .c3 {
   margin-right: 0;
 }
 
-.c1:hover,
-.c1:focus {
+.c2:hover,
+.c2:focus {
   box-shadow: none;
   background-color: rgba(245,178,77,0.4);
   color: #ec7e00;
 }
 
-.c1:active {
+.c2:active {
   box-shadow: none;
   background-color: rgba(245,178,77,0.5);
   color: #ec7e00;
 }
 
-.c1:hover {
+.c2:hover {
   background: none;
   opacity: 1;
   color: #a36300;
@@ -14016,6 +14054,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                     "styledComponentId": "Content__PopoverContent-sc-1005q1-0",
                     "target": "div",
                     "toString": [Function],
+                    "usesTheme": true,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -14257,7 +14296,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "Content__PopoverChildren-sc-1005q1-2",
-                            "isStatic": true,
+                            "isStatic": false,
                             "lastClassName": "ihRKEi",
                             "rules": Array [],
                           },
@@ -14267,6 +14306,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__PopoverChildren-sc-1005q1-2",
                           "target": "div",
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -14508,26 +14548,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                       forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": Array [
-                            Object {
-                              "icon": "close",
-                            },
-                          ],
-                          "componentStyle": ComponentStyle {
-                            "componentId": "Content__CloseButton-sc-1005q1-1",
-                            "isStatic": false,
-                            "lastClassName": "c2",
-                            "rules": Array [
-                              [Function],
-                              [Function],
-                              " display:inherit;height:auto;",
-                              [Function],
-                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
-                              [Function],
-                              "}",
-                            ],
-                          },
-                          "defaultProps": Object {
+                          "_foldedDefaultProps": Object {
                             "size": "medium",
                             "skin": "neutral",
                             "theme": Object {
@@ -14683,6 +14704,25 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                               },
                             },
                           },
+                          "attrs": Array [
+                            Object {
+                              "icon": "close",
+                            },
+                          ],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Content__CloseButton-sc-1005q1-1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              [Function],
+                              [Function],
+                              " display:inherit;height:auto;",
+                              [Function],
+                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
+                              [Function],
+                              "}",
+                            ],
+                          },
                           "displayName": "CloseButton",
                           "foldedComponentIds": Array [
                             "Button__IconButton-sc-1ovnfsw-2",
@@ -14696,6 +14736,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__CloseButton-sc-1005q1-1",
                           "target": [Function],
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -15420,6 +15461,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                 "styledComponentId": "Button__StyledButton-sc-1ovnfsw-1",
                                 "target": "button",
                                 "toString": [Function],
+                                "usesTheme": true,
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -15652,7 +15694,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                             type="button"
                           >
                             <button
-                              className="c2 c3"
+                              className="c3 c2"
                               disabled={false}
                               onClick={[Function]}
                               size="medium"
@@ -15900,6 +15942,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                       "styledComponentId": "c4",
                                       "target": [Function],
                                       "toString": [Function],
+                                      "usesTheme": true,
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
                                     }
@@ -17077,7 +17120,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c6",
                   "rules": Array [
                     "cursor:pointer;",
@@ -17089,6 +17132,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -17361,7 +17405,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -17373,6 +17417,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -17673,7 +17718,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
-.c2 {
+.c1 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -17705,23 +17750,23 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c2:hover {
+.c1:hover {
   box-shadow: 0px 2px 4px -1px rgba(255,34,61,0.2),0px 4px 5px 0px rgba(255,34,61,0.14),0px 1px 10px 0px rgba(255,34,61,0.12);
   background-color: #ff223d;
   border-color: #ff223d;
 }
 
-.c2:focus,
-.c2:focus-within {
+.c1:focus,
+.c1:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(255,45,77,0.2),0px 4px 5px 0px rgba(255,45,77,0.14),0px 1px 10px 0px rgba(255,45,77,0.12);
 }
 
-.c2:active {
+.c1:active {
   box-shadow: 0px 5px 5px -3px rgba(255,34,61,0.2),0px 8px 10px 1px rgba(255,34,61,0.14),0px 3px 14px 2px rgba(255,34,61,0.12);
   background-color: #ff223d;
 }
 
-.c2 .c3 function (_ref5) {
+.c1 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -17729,7 +17774,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c2 .c3 function (_ref5) var sizes = {
+.c1 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
@@ -17780,7 +17825,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   margin-right: 0;
 }
 
-.c1 {
+.c2 {
   border-radius: 50%;
   border: none;
   color: rgba(255,45,77,0.5);
@@ -17799,24 +17844,24 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   width: auto;
 }
 
-.c1 .c3 {
+.c2 .c3 {
   margin-right: 0;
 }
 
-.c1:hover,
-.c1:focus {
+.c2:hover,
+.c2:focus {
   box-shadow: none;
   background-color: rgba(255,108,130,0.4);
   color: #ff223d;
 }
 
-.c1:active {
+.c2:active {
   box-shadow: none;
   background-color: rgba(255,108,130,0.5);
   color: #ff223d;
 }
 
-.c1:hover {
+.c2:hover {
   background: none;
   opacity: 1;
   color: #ac001a;
@@ -18128,6 +18173,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                     "styledComponentId": "Content__PopoverContent-sc-1005q1-0",
                     "target": "div",
                     "toString": [Function],
+                    "usesTheme": true,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -18369,7 +18415,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "Content__PopoverChildren-sc-1005q1-2",
-                            "isStatic": true,
+                            "isStatic": false,
                             "lastClassName": "ihRKEi",
                             "rules": Array [],
                           },
@@ -18379,6 +18425,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__PopoverChildren-sc-1005q1-2",
                           "target": "div",
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -18620,26 +18667,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                       forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": Array [
-                            Object {
-                              "icon": "close",
-                            },
-                          ],
-                          "componentStyle": ComponentStyle {
-                            "componentId": "Content__CloseButton-sc-1005q1-1",
-                            "isStatic": false,
-                            "lastClassName": "c2",
-                            "rules": Array [
-                              [Function],
-                              [Function],
-                              " display:inherit;height:auto;",
-                              [Function],
-                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
-                              [Function],
-                              "}",
-                            ],
-                          },
-                          "defaultProps": Object {
+                          "_foldedDefaultProps": Object {
                             "size": "medium",
                             "skin": "neutral",
                             "theme": Object {
@@ -18795,6 +18823,25 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                               },
                             },
                           },
+                          "attrs": Array [
+                            Object {
+                              "icon": "close",
+                            },
+                          ],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Content__CloseButton-sc-1005q1-1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              [Function],
+                              [Function],
+                              " display:inherit;height:auto;",
+                              [Function],
+                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
+                              [Function],
+                              "}",
+                            ],
+                          },
                           "displayName": "CloseButton",
                           "foldedComponentIds": Array [
                             "Button__IconButton-sc-1ovnfsw-2",
@@ -18808,6 +18855,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__CloseButton-sc-1005q1-1",
                           "target": [Function],
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -19532,6 +19580,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                 "styledComponentId": "Button__StyledButton-sc-1ovnfsw-1",
                                 "target": "button",
                                 "toString": [Function],
+                                "usesTheme": true,
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -19764,7 +19813,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                             type="button"
                           >
                             <button
-                              className="c2 c3"
+                              className="c3 c2"
                               disabled={false}
                               onClick={[Function]}
                               size="medium"
@@ -20012,6 +20061,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                       "styledComponentId": "c4",
                                       "target": [Function],
                                       "toString": [Function],
+                                      "usesTheme": true,
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
                                     }
@@ -21189,7 +21239,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c6",
                   "rules": Array [
                     "cursor:pointer;",
@@ -21201,6 +21251,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -21473,7 +21524,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -21485,6 +21536,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -21749,7 +21801,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   pointer-events: none;
 }
 
-.c2 {
+.c1 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -21781,23 +21833,23 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c2:hover {
+.c1:hover {
   box-shadow: 0px 2px 4px -1px rgba(76,76,76,0.2),0px 4px 5px 0px rgba(76,76,76,0.14),0px 1px 10px 0px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
   border-color: #4c4c4c;
 }
 
-.c2:focus,
-.c2:focus-within {
+.c1:focus,
+.c1:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(153,153,153,0.2),0px 4px 5px 0px rgba(153,153,153,0.14),0px 1px 10px 0px rgba(153,153,153,0.12);
 }
 
-.c2:active {
+.c1:active {
   box-shadow: 0px 5px 5px -3px rgba(76,76,76,0.2),0px 8px 10px 1px rgba(76,76,76,0.14),0px 3px 14px 2px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
 }
 
-.c2 .c3 function (_ref5) {
+.c1 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -21805,7 +21857,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c2 .c3 function (_ref5) var sizes = {
+.c1 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
@@ -21880,7 +21932,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   transform: translateX(-50%);
 }
 
-.c1 {
+.c2 {
   border-radius: 50%;
   border: none;
   color: rgba(153,153,153,0.5);
@@ -21899,24 +21951,24 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   width: auto;
 }
 
-.c1 .c3 {
+.c2 .c3 {
   margin-right: 0;
 }
 
-.c1:hover,
-.c1:focus {
+.c2:hover,
+.c2:focus {
   box-shadow: none;
   background-color: rgba(204,204,204,0.4);
   color: #4c4c4c;
 }
 
-.c1:active {
+.c2:active {
   box-shadow: none;
   background-color: rgba(204,204,204,0.5);
   color: #4c4c4c;
 }
 
-.c1:hover {
+.c2:hover {
   background: none;
   opacity: 1;
   color: #4c4c4c;
@@ -22240,6 +22292,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                     "styledComponentId": "Content__PopoverContent-sc-1005q1-0",
                     "target": "div",
                     "toString": [Function],
+                    "usesTheme": true,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -22481,7 +22534,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "Content__PopoverChildren-sc-1005q1-2",
-                            "isStatic": true,
+                            "isStatic": false,
                             "lastClassName": "ihRKEi",
                             "rules": Array [],
                           },
@@ -22491,6 +22544,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__PopoverChildren-sc-1005q1-2",
                           "target": "div",
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -22732,26 +22786,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                       forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": Array [
-                            Object {
-                              "icon": "close",
-                            },
-                          ],
-                          "componentStyle": ComponentStyle {
-                            "componentId": "Content__CloseButton-sc-1005q1-1",
-                            "isStatic": false,
-                            "lastClassName": "c2",
-                            "rules": Array [
-                              [Function],
-                              [Function],
-                              " display:inherit;height:auto;",
-                              [Function],
-                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
-                              [Function],
-                              "}",
-                            ],
-                          },
-                          "defaultProps": Object {
+                          "_foldedDefaultProps": Object {
                             "size": "medium",
                             "skin": "neutral",
                             "theme": Object {
@@ -22907,6 +22942,25 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                               },
                             },
                           },
+                          "attrs": Array [
+                            Object {
+                              "icon": "close",
+                            },
+                          ],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Content__CloseButton-sc-1005q1-1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              [Function],
+                              [Function],
+                              " display:inherit;height:auto;",
+                              [Function],
+                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
+                              [Function],
+                              "}",
+                            ],
+                          },
                           "displayName": "CloseButton",
                           "foldedComponentIds": Array [
                             "Button__IconButton-sc-1ovnfsw-2",
@@ -22920,6 +22974,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__CloseButton-sc-1005q1-1",
                           "target": [Function],
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -23644,6 +23699,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                 "styledComponentId": "Button__StyledButton-sc-1ovnfsw-1",
                                 "target": "button",
                                 "toString": [Function],
+                                "usesTheme": true,
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -23876,7 +23932,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                             type="button"
                           >
                             <button
-                              className="c2 c3"
+                              className="c3 c2"
                               disabled={false}
                               onClick={[Function]}
                               size="medium"
@@ -24124,6 +24180,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                       "styledComponentId": "c4",
                                       "target": [Function],
                                       "toString": [Function],
+                                      "usesTheme": true,
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
                                     }
@@ -25301,7 +25358,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c6",
                   "rules": Array [
                     "cursor:pointer;",
@@ -25313,6 +25370,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -25582,7 +25640,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -25594,6 +25652,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -25858,7 +25917,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   pointer-events: none;
 }
 
-.c2 {
+.c1 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -25890,23 +25949,23 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c2:hover {
+.c1:hover {
   box-shadow: 0px 2px 4px -1px rgba(76,76,76,0.2),0px 4px 5px 0px rgba(76,76,76,0.14),0px 1px 10px 0px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
   border-color: #4c4c4c;
 }
 
-.c2:focus,
-.c2:focus-within {
+.c1:focus,
+.c1:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(153,153,153,0.2),0px 4px 5px 0px rgba(153,153,153,0.14),0px 1px 10px 0px rgba(153,153,153,0.12);
 }
 
-.c2:active {
+.c1:active {
   box-shadow: 0px 5px 5px -3px rgba(76,76,76,0.2),0px 8px 10px 1px rgba(76,76,76,0.14),0px 3px 14px 2px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
 }
 
-.c2 .c3 function (_ref5) {
+.c1 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -25914,7 +25973,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c2 .c3 function (_ref5) var sizes = {
+.c1 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
@@ -25986,7 +26045,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   text-shadow: 4px 1px 4px rgba(76,76,76,0.2);
 }
 
-.c1 {
+.c2 {
   border-radius: 50%;
   border: none;
   color: rgba(153,153,153,0.5);
@@ -26005,24 +26064,24 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   width: auto;
 }
 
-.c1 .c3 {
+.c2 .c3 {
   margin-right: 0;
 }
 
-.c1:hover,
-.c1:focus {
+.c2:hover,
+.c2:focus {
   box-shadow: none;
   background-color: rgba(204,204,204,0.4);
   color: #4c4c4c;
 }
 
-.c1:active {
+.c2:active {
   box-shadow: none;
   background-color: rgba(204,204,204,0.5);
   color: #4c4c4c;
 }
 
-.c1:hover {
+.c2:hover {
   background: none;
   opacity: 1;
   color: #4c4c4c;
@@ -26346,6 +26405,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                     "styledComponentId": "Content__PopoverContent-sc-1005q1-0",
                     "target": "div",
                     "toString": [Function],
+                    "usesTheme": true,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -26587,7 +26647,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "Content__PopoverChildren-sc-1005q1-2",
-                            "isStatic": true,
+                            "isStatic": false,
                             "lastClassName": "ihRKEi",
                             "rules": Array [],
                           },
@@ -26597,6 +26657,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__PopoverChildren-sc-1005q1-2",
                           "target": "div",
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -26838,26 +26899,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                       forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": Array [
-                            Object {
-                              "icon": "close",
-                            },
-                          ],
-                          "componentStyle": ComponentStyle {
-                            "componentId": "Content__CloseButton-sc-1005q1-1",
-                            "isStatic": false,
-                            "lastClassName": "c2",
-                            "rules": Array [
-                              [Function],
-                              [Function],
-                              " display:inherit;height:auto;",
-                              [Function],
-                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
-                              [Function],
-                              "}",
-                            ],
-                          },
-                          "defaultProps": Object {
+                          "_foldedDefaultProps": Object {
                             "size": "medium",
                             "skin": "neutral",
                             "theme": Object {
@@ -27013,6 +27055,25 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                               },
                             },
                           },
+                          "attrs": Array [
+                            Object {
+                              "icon": "close",
+                            },
+                          ],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Content__CloseButton-sc-1005q1-1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              [Function],
+                              [Function],
+                              " display:inherit;height:auto;",
+                              [Function],
+                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
+                              [Function],
+                              "}",
+                            ],
+                          },
                           "displayName": "CloseButton",
                           "foldedComponentIds": Array [
                             "Button__IconButton-sc-1ovnfsw-2",
@@ -27026,6 +27087,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__CloseButton-sc-1005q1-1",
                           "target": [Function],
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -27750,6 +27812,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                 "styledComponentId": "Button__StyledButton-sc-1ovnfsw-1",
                                 "target": "button",
                                 "toString": [Function],
+                                "usesTheme": true,
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -27982,7 +28045,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                             type="button"
                           >
                             <button
-                              className="c2 c3"
+                              className="c3 c2"
                               disabled={false}
                               onClick={[Function]}
                               size="medium"
@@ -28230,6 +28293,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                       "styledComponentId": "c4",
                                       "target": [Function],
                                       "toString": [Function],
+                                      "usesTheme": true,
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
                                     }
@@ -29407,7 +29471,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c6",
                   "rules": Array [
                     "cursor:pointer;",
@@ -29419,6 +29483,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }
@@ -29688,7 +29753,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Popover__Wrapper-sc-94rrmp-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "display:inline-block;position:relative;",
@@ -29700,6 +29765,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
           "styledComponentId": "Popover__Wrapper-sc-94rrmp-0",
           "target": "div",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }
@@ -29964,7 +30030,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   pointer-events: none;
 }
 
-.c2 {
+.c1 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -29996,23 +30062,23 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c2:hover {
+.c1:hover {
   box-shadow: 0px 2px 4px -1px rgba(76,76,76,0.2),0px 4px 5px 0px rgba(76,76,76,0.14),0px 1px 10px 0px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
   border-color: #4c4c4c;
 }
 
-.c2:focus,
-.c2:focus-within {
+.c1:focus,
+.c1:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(153,153,153,0.2),0px 4px 5px 0px rgba(153,153,153,0.14),0px 1px 10px 0px rgba(153,153,153,0.12);
 }
 
-.c2:active {
+.c1:active {
   box-shadow: 0px 5px 5px -3px rgba(76,76,76,0.2),0px 8px 10px 1px rgba(76,76,76,0.14),0px 3px 14px 2px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
 }
 
-.c2 .c3 function (_ref5) {
+.c1 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -30020,7 +30086,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c2 .c3 function (_ref5) var sizes = {
+.c1 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
@@ -30092,7 +30158,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   text-shadow: -4px 1px 4px rgba(76,76,76,0.2);
 }
 
-.c1 {
+.c2 {
   border-radius: 50%;
   border: none;
   color: rgba(153,153,153,0.5);
@@ -30111,24 +30177,24 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
   width: auto;
 }
 
-.c1 .c3 {
+.c2 .c3 {
   margin-right: 0;
 }
 
-.c1:hover,
-.c1:focus {
+.c2:hover,
+.c2:focus {
   box-shadow: none;
   background-color: rgba(204,204,204,0.4);
   color: #4c4c4c;
 }
 
-.c1:active {
+.c2:active {
   box-shadow: none;
   background-color: rgba(204,204,204,0.5);
   color: #4c4c4c;
 }
 
-.c1:hover {
+.c2:hover {
   background: none;
   opacity: 1;
   color: #4c4c4c;
@@ -30452,6 +30518,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                     "styledComponentId": "Content__PopoverContent-sc-1005q1-0",
                     "target": "div",
                     "toString": [Function],
+                    "usesTheme": true,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   }
@@ -30693,7 +30760,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "attrs": Array [],
                           "componentStyle": ComponentStyle {
                             "componentId": "Content__PopoverChildren-sc-1005q1-2",
-                            "isStatic": true,
+                            "isStatic": false,
                             "lastClassName": "ihRKEi",
                             "rules": Array [],
                           },
@@ -30703,6 +30770,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__PopoverChildren-sc-1005q1-2",
                           "target": "div",
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -30944,26 +31012,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                       forwardedComponent={
                         Object {
                           "$$typeof": Symbol(react.forward_ref),
-                          "attrs": Array [
-                            Object {
-                              "icon": "close",
-                            },
-                          ],
-                          "componentStyle": ComponentStyle {
-                            "componentId": "Content__CloseButton-sc-1005q1-1",
-                            "isStatic": false,
-                            "lastClassName": "c2",
-                            "rules": Array [
-                              [Function],
-                              [Function],
-                              " display:inherit;height:auto;",
-                              [Function],
-                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
-                              [Function],
-                              "}",
-                            ],
-                          },
-                          "defaultProps": Object {
+                          "_foldedDefaultProps": Object {
                             "size": "medium",
                             "skin": "neutral",
                             "theme": Object {
@@ -31119,6 +31168,25 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                               },
                             },
                           },
+                          "attrs": Array [
+                            Object {
+                              "icon": "close",
+                            },
+                          ],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Content__CloseButton-sc-1005q1-1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              [Function],
+                              [Function],
+                              " display:inherit;height:auto;",
+                              [Function],
+                              " opacity:0.8;padding:0;transition:opacity 0.4s ease;width:auto;:hover{background:none;opacity:1;",
+                              [Function],
+                              "}",
+                            ],
+                          },
                           "displayName": "CloseButton",
                           "foldedComponentIds": Array [
                             "Button__IconButton-sc-1ovnfsw-2",
@@ -31132,6 +31200,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                           "styledComponentId": "Content__CloseButton-sc-1005q1-1",
                           "target": [Function],
                           "toString": [Function],
+                          "usesTheme": false,
                           "warnTooManyClasses": [Function],
                           "withComponent": [Function],
                         }
@@ -31856,6 +31925,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                 "styledComponentId": "Button__StyledButton-sc-1ovnfsw-1",
                                 "target": "button",
                                 "toString": [Function],
+                                "usesTheme": true,
                                 "warnTooManyClasses": [Function],
                                 "withComponent": [Function],
                               }
@@ -32088,7 +32158,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                             type="button"
                           >
                             <button
-                              className="c2 c3"
+                              className="c3 c2"
                               disabled={false}
                               onClick={[Function]}
                               size="medium"
@@ -32336,6 +32406,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                                       "styledComponentId": "c4",
                                       "target": [Function],
                                       "toString": [Function],
+                                      "usesTheme": true,
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
                                     }
@@ -33513,7 +33584,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "attrs": Array [],
                 "componentStyle": ComponentStyle {
                   "componentId": "Popover__TriggerBlock-sc-94rrmp-1",
-                  "isStatic": true,
+                  "isStatic": false,
                   "lastClassName": "c6",
                   "rules": Array [
                     "cursor:pointer;",
@@ -33525,6 +33596,7 @@ exports[`Popover component  Snapshots should match the snapshots after click on 
                 "styledComponentId": "Popover__TriggerBlock-sc-94rrmp-1",
                 "target": "div",
                 "toString": [Function],
+                "usesTheme": false,
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
               }

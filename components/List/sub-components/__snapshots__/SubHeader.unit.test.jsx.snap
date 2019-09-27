@@ -14,7 +14,7 @@ exports[`<SubHeader /> Should match the snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "SubHeader__Description-gatzne-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "font-size:12px;",
@@ -26,6 +26,7 @@ exports[`<SubHeader /> Should match the snapshot 1`] = `
           "styledComponentId": "SubHeader__Description-gatzne-0",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }

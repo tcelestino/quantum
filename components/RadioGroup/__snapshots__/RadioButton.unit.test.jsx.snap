@@ -12,7 +12,7 @@ exports[`<RadioGroup.Radio /> snapshot checked 1`] = `
   width: 0;
 }
 
-.c1 {
+.c0 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -44,23 +44,23 @@ exports[`<RadioGroup.Radio /> snapshot checked 1`] = `
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c1:hover {
+.c0:hover {
   box-shadow: 0px 2px 4px -1px rgba(14,68,196,0.2),0px 4px 5px 0px rgba(14,68,196,0.14),0px 1px 10px 0px rgba(14,68,196,0.12);
   background-color: #0e44c4;
   border-color: #0e44c4;
 }
 
-.c1:focus,
-.c1:focus-within {
+.c0:focus,
+.c0:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(19,85,208,0.2),0px 4px 5px 0px rgba(19,85,208,0.14),0px 1px 10px 0px rgba(19,85,208,0.12);
 }
 
-.c1:active {
+.c0:active {
   box-shadow: 0px 5px 5px -3px rgba(14,68,196,0.2),0px 8px 10px 1px rgba(14,68,196,0.14),0px 3px 14px 2px rgba(14,68,196,0.12);
   background-color: #0e44c4;
 }
 
-.c1 .c3 function (_ref5) {
+.c0 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -68,11 +68,11 @@ exports[`<RadioGroup.Radio /> snapshot checked 1`] = `
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c1 .c3 function (_ref5) var sizes = {
+.c0 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
-.c0 {
+.c1 {
   margin-bottom: 8px;
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
@@ -119,7 +119,7 @@ exports[`<RadioGroup.Radio /> snapshot children 1`] = `
   width: 0;
 }
 
-.c1 {
+.c0 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -151,23 +151,23 @@ exports[`<RadioGroup.Radio /> snapshot children 1`] = `
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c1:hover {
+.c0:hover {
   box-shadow: 0px 2px 4px -1px rgba(14,68,196,0.2),0px 4px 5px 0px rgba(14,68,196,0.14),0px 1px 10px 0px rgba(14,68,196,0.12);
   background-color: #e5edfc;
   border-color: #0e44c4;
 }
 
-.c1:focus,
-.c1:focus-within {
+.c0:focus,
+.c0:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(19,85,208,0.2),0px 4px 5px 0px rgba(19,85,208,0.14),0px 1px 10px 0px rgba(19,85,208,0.12);
 }
 
-.c1:active {
+.c0:active {
   box-shadow: 0px 5px 5px -3px rgba(14,68,196,0.2),0px 8px 10px 1px rgba(14,68,196,0.14),0px 3px 14px 2px rgba(14,68,196,0.12);
   background-color: #e5edfc;
 }
 
-.c1 .c3 function (_ref5) {
+.c0 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -175,11 +175,11 @@ exports[`<RadioGroup.Radio /> snapshot children 1`] = `
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c1 .c3 function (_ref5) var sizes = {
+.c0 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
-.c0 {
+.c1 {
   margin-bottom: 8px;
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
@@ -226,7 +226,7 @@ exports[`<RadioGroup.Radio /> snapshot disabled 1`] = `
   width: 0;
 }
 
-.c1 {
+.c0 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -258,7 +258,7 @@ exports[`<RadioGroup.Radio /> snapshot disabled 1`] = `
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c1 .c5 function (_ref5) {
+.c0 .c5 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -266,7 +266,7 @@ exports[`<RadioGroup.Radio /> snapshot disabled 1`] = `
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c1 .c5 function (_ref5) var sizes = {
+.c0 .c5 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
@@ -275,7 +275,7 @@ exports[`<RadioGroup.Radio /> snapshot disabled 1`] = `
   margin-left: 8px;
 }
 
-.c0 {
+.c1 {
   margin-bottom: 8px;
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
@@ -333,7 +333,7 @@ exports[`<RadioGroup.Radio /> snapshot disabled with an error 1`] = `
   width: 0;
 }
 
-.c1 {
+.c0 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -365,7 +365,7 @@ exports[`<RadioGroup.Radio /> snapshot disabled with an error 1`] = `
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c1 .c5 function (_ref5) {
+.c0 .c5 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -373,7 +373,7 @@ exports[`<RadioGroup.Radio /> snapshot disabled with an error 1`] = `
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c1 .c5 function (_ref5) var sizes = {
+.c0 .c5 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
@@ -382,7 +382,7 @@ exports[`<RadioGroup.Radio /> snapshot disabled with an error 1`] = `
   margin-left: 8px;
 }
 
-.c0 {
+.c1 {
   margin-bottom: 8px;
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
@@ -440,7 +440,7 @@ exports[`<RadioGroup.Radio /> snapshot error 1`] = `
   width: 0;
 }
 
-.c1 {
+.c0 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -472,23 +472,23 @@ exports[`<RadioGroup.Radio /> snapshot error 1`] = `
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c1:hover {
+.c0:hover {
   box-shadow: 0px 2px 4px -1px rgba(255,34,61,0.2),0px 4px 5px 0px rgba(255,34,61,0.14),0px 1px 10px 0px rgba(255,34,61,0.12);
   background-color: #ffe5e9;
   border-color: #ff223d;
 }
 
-.c1:focus,
-.c1:focus-within {
+.c0:focus,
+.c0:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(255,45,77,0.2),0px 4px 5px 0px rgba(255,45,77,0.14),0px 1px 10px 0px rgba(255,45,77,0.12);
 }
 
-.c1:active {
+.c0:active {
   box-shadow: 0px 5px 5px -3px rgba(255,34,61,0.2),0px 8px 10px 1px rgba(255,34,61,0.14),0px 3px 14px 2px rgba(255,34,61,0.12);
   background-color: #ffe5e9;
 }
 
-.c1 .c3 function (_ref5) {
+.c0 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -496,11 +496,11 @@ exports[`<RadioGroup.Radio /> snapshot error 1`] = `
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c1 .c3 function (_ref5) var sizes = {
+.c0 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
-.c0 {
+.c1 {
   margin-bottom: 8px;
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
@@ -537,6 +537,128 @@ exports[`<RadioGroup.Radio /> snapshot error 1`] = `
 
 exports[`<RadioGroup.Radio /> snapshot icon 1`] = `
 .c2 {
+  border: 0;
+  height: 0;
+  margin: 0;
+  opacity: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 0;
+}
+
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: bold;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-letter-spacing: 0.2px;
+  -moz-letter-spacing: 0.2px;
+  -ms-letter-spacing: 0.2px;
+  letter-spacing: 0.2px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 24px;
+  min-height: 40px;
+  padding: 8px 16px;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  background-color: #ffffff;
+  color: #1355d0;
+  border: 2px solid #1355d0;
+  box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
+}
+
+.c0:hover {
+  box-shadow: 0px 2px 4px -1px rgba(14,68,196,0.2),0px 4px 5px 0px rgba(14,68,196,0.14),0px 1px 10px 0px rgba(14,68,196,0.12);
+  background-color: #e5edfc;
+  border-color: #0e44c4;
+}
+
+.c0:focus,
+.c0:focus-within {
+  box-shadow: 0px 2px 4px -1px rgba(19,85,208,0.2),0px 4px 5px 0px rgba(19,85,208,0.14),0px 1px 10px 0px rgba(19,85,208,0.12);
+}
+
+.c0:active {
+  box-shadow: 0px 5px 5px -3px rgba(14,68,196,0.2),0px 8px 10px 1px rgba(14,68,196,0.14),0px 3px 14px 2px rgba(14,68,196,0.12);
+  background-color: #e5edfc;
+}
+
+.c0 .c4 function (_ref5) {
+  -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
+  -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
+  -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
+  var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
+  return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
+}
+
+.c0 .c4 function (_ref5) var sizes = {
+  xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
+}
+
+.c3 {
+  margin-right: 8px;
+}
+
+.c1 {
+  margin-bottom: 8px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+<div
+  className=""
+>
+  <label
+    checked={false}
+    className="c0 c1"
+    disabled={false}
+    htmlFor="radio-button-3"
+    onClick={[Function]}
+    size="medium"
+    type="button"
+  >
+    
+    <input
+      checked={false}
+      className="c2"
+      disabled={false}
+      id="radio-button-3"
+      onChange={[Function]}
+      type="radio"
+      value="Foo"
+    />
+    <span
+      aria-hidden="true"
+      className="material-icons MuiIcon-root-1 c3"
+      style={
+        Object {
+          "color": "",
+        }
+      }
+    >
+      check
+    </span>
+    Foo
+  </label>
+</div>
+`;
+
+exports[`<RadioGroup.Radio /> snapshot inline 1`] = `
+.c3 {
   border: 0;
   height: 0;
   margin: 0;
@@ -607,128 +729,6 @@ exports[`<RadioGroup.Radio /> snapshot icon 1`] = `
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
-.c3 {
-  margin-right: 8px;
-}
-
-.c0 {
-  margin-bottom: 8px;
-  display: -webkit-inline-box;
-  display: -webkit-inline-flex;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
-}
-
-<div
-  className=""
->
-  <label
-    checked={false}
-    className="c0 c1"
-    disabled={false}
-    htmlFor="radio-button-3"
-    onClick={[Function]}
-    size="medium"
-    type="button"
-  >
-    
-    <input
-      checked={false}
-      className="c2"
-      disabled={false}
-      id="radio-button-3"
-      onChange={[Function]}
-      type="radio"
-      value="Foo"
-    />
-    <span
-      aria-hidden="true"
-      className="material-icons MuiIcon-root-1 c3"
-      style={
-        Object {
-          "color": "",
-        }
-      }
-    >
-      check
-    </span>
-    Foo
-  </label>
-</div>
-`;
-
-exports[`<RadioGroup.Radio /> snapshot inline 1`] = `
-.c3 {
-  border: 0;
-  height: 0;
-  margin: 0;
-  opacity: 0;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-  width: 0;
-}
-
-.c2 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  font-weight: bold;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-letter-spacing: 0.2px;
-  -moz-letter-spacing: 0.2px;
-  -ms-letter-spacing: 0.2px;
-  letter-spacing: 0.2px;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 16px;
-  line-height: 24px;
-  min-height: 40px;
-  padding: 8px 16px;
-  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
-  background-color: #ffffff;
-  color: #1355d0;
-  border: 2px solid #1355d0;
-  box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
-}
-
-.c2:hover {
-  box-shadow: 0px 2px 4px -1px rgba(14,68,196,0.2),0px 4px 5px 0px rgba(14,68,196,0.14),0px 1px 10px 0px rgba(14,68,196,0.12);
-  background-color: #e5edfc;
-  border-color: #0e44c4;
-}
-
-.c2:focus,
-.c2:focus-within {
-  box-shadow: 0px 2px 4px -1px rgba(19,85,208,0.2),0px 4px 5px 0px rgba(19,85,208,0.14),0px 1px 10px 0px rgba(19,85,208,0.12);
-}
-
-.c2:active {
-  box-shadow: 0px 5px 5px -3px rgba(14,68,196,0.2),0px 8px 10px 1px rgba(14,68,196,0.14),0px 3px 14px 2px rgba(14,68,196,0.12);
-  background-color: #e5edfc;
-}
-
-.c2 .c4 function (_ref5) {
-  -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
-  -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
-  -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
-  var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
-  return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
-}
-
-.c2 .c4 function (_ref5) var sizes = {
-  xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
-}
-
 .c0 {
   display: inline-block;
   margin-right: 16px;
@@ -744,7 +744,7 @@ exports[`<RadioGroup.Radio /> snapshot inline 1`] = `
   margin-left: 8px;
 }
 
-.c1 {
+.c2 {
   margin-bottom: 8px;
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
@@ -791,7 +791,7 @@ exports[`<RadioGroup.Radio /> snapshot simple 1`] = `
   width: 0;
 }
 
-.c1 {
+.c0 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -823,23 +823,23 @@ exports[`<RadioGroup.Radio /> snapshot simple 1`] = `
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c1:hover {
+.c0:hover {
   box-shadow: 0px 2px 4px -1px rgba(14,68,196,0.2),0px 4px 5px 0px rgba(14,68,196,0.14),0px 1px 10px 0px rgba(14,68,196,0.12);
   background-color: #e5edfc;
   border-color: #0e44c4;
 }
 
-.c1:focus,
-.c1:focus-within {
+.c0:focus,
+.c0:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(19,85,208,0.2),0px 4px 5px 0px rgba(19,85,208,0.14),0px 1px 10px 0px rgba(19,85,208,0.12);
 }
 
-.c1:active {
+.c0:active {
   box-shadow: 0px 5px 5px -3px rgba(14,68,196,0.2),0px 8px 10px 1px rgba(14,68,196,0.14),0px 3px 14px 2px rgba(14,68,196,0.12);
   background-color: #e5edfc;
 }
 
-.c1 .c3 function (_ref5) {
+.c0 .c3 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -847,11 +847,11 @@ exports[`<RadioGroup.Radio /> snapshot simple 1`] = `
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c1 .c3 function (_ref5) var sizes = {
+.c0 .c3 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
-.c0 {
+.c1 {
   margin-bottom: 8px;
   display: -webkit-inline-box;
   display: -webkit-inline-flex;

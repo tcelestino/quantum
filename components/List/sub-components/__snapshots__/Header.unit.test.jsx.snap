@@ -15,7 +15,7 @@ exports[`<Header /> Should match the snapshot 1`] = `
           "attrs": Array [],
           "componentStyle": ComponentStyle {
             "componentId": "Header__Title-e8ruju-0",
-            "isStatic": true,
+            "isStatic": false,
             "lastClassName": "c0",
             "rules": Array [
               "margin-top:4px;margin-bottom:4px;",
@@ -27,6 +27,7 @@ exports[`<Header /> Should match the snapshot 1`] = `
           "styledComponentId": "Header__Title-e8ruju-0",
           "target": "span",
           "toString": [Function],
+          "usesTheme": false,
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
         }

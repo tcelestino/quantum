@@ -102,7 +102,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
 .c8 {
   margin: 0;
   padding: 12px 16px;
-  font-size: NaNpx;
+  font-size: 14px;
   font-size: 16px;
   max-height: 70vh;
   overflow-y: auto;
@@ -453,7 +453,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
   flex-basis: 0;
 }
 
-.c7 {
+.c6 {
   font-size: 24px;
   font-weight: 600;
   margin: 0;
@@ -463,7 +463,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
   padding: 0 16px 16px;
 }
 
-.c2 {
+.c1 {
   border-radius: 8px;
   display: -webkit-box;
   display: -webkit-flex;
@@ -481,7 +481,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
   pointer-events: none;
 }
 
-.c11 {
+.c10 {
   -webkit-align-items: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -513,23 +513,23 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
   box-shadow: 0px 3px 1px -2px rgba(153,153,153,0.2),0px 2px 2px 0px rgba(153,153,153,0.14),0px 1px 5px 0px rgba(153,153,153,0.12);
 }
 
-.c11:hover {
+.c10:hover {
   box-shadow: 0px 2px 4px -1px rgba(76,76,76,0.2),0px 4px 5px 0px rgba(76,76,76,0.14),0px 1px 10px 0px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
   border-color: #4c4c4c;
 }
 
-.c11:focus,
-.c11:focus-within {
+.c10:focus,
+.c10:focus-within {
   box-shadow: 0px 2px 4px -1px rgba(153,153,153,0.2),0px 4px 5px 0px rgba(153,153,153,0.14),0px 1px 10px 0px rgba(153,153,153,0.12);
 }
 
-.c11:active {
+.c10:active {
   box-shadow: 0px 5px 5px -3px rgba(76,76,76,0.2),0px 8px 10px 1px rgba(76,76,76,0.14),0px 3px 14px 2px rgba(76,76,76,0.12);
   background-color: #4c4c4c;
 }
 
-.c11 .c12 function (_ref5) {
+.c10 .c12 function (_ref5) {
   -webkit-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -moz-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
   -ms-var: size = _ref5.size, _ref5$theme$spacing = _ref5.theme.spacing, xxsmall = _ref5$theme$spacing.xxsmall, medium = _ref5$theme$spacing.medium, large = _ref5$theme$spacing.large;
@@ -537,14 +537,14 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
   return: "\\n          font-size: ".concat(sizes[size],";\\n          margin-right: ").concat(xxsmall,"px;\\n        ");
 }
 
-.c11 .c12 function (_ref5) var sizes = {
+.c10 .c12 function (_ref5) var sizes = {
   xsmall: "".concat(medium,"px"), small:"".concat(medium,"px"), medium:"".concat(large,"px"), large:"".concat(large,"px"), xlarge:"".concat(large,"px");
 }
 
 .c8 {
   margin: 0;
   padding: 12px 16px;
-  font-size: NaNpx;
+  font-size: 14px;
   font-size: 16px;
   max-height: 70vh;
   overflow-y: auto;
@@ -568,16 +568,16 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
   margin-right: 0;
 }
 
-.c6 {
+.c7 {
   font-weight: 700;
   line-height: 1.25;
 }
 
-.c1 .c3 {
+.c2 .c3 {
   padding-right: 48px;
 }
 
-.c10 {
+.c11 {
   border-radius: 50%;
   border: none;
   color: rgba(153,153,153,0.5);
@@ -590,18 +590,18 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
   right: 16px;
 }
 
-.c10 .c12 {
+.c11 .c12 {
   margin-right: 0;
 }
 
-.c10:hover,
-.c10:focus {
+.c11:hover,
+.c11:focus {
   box-shadow: none;
   background-color: rgba(204,204,204,0.4);
   color: #4c4c4c;
 }
 
-.c10:active {
+.c11:active {
   box-shadow: none;
   background-color: rgba(204,204,204,0.5);
   color: #4c4c4c;
@@ -658,25 +658,25 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
 }
 
 @media (min-width:0px) {
-  .c1 {
+  .c2 {
     width: 90%;
   }
 }
 
 @media (min-width:600px) {
-  .c1 {
+  .c2 {
     width: 400px;
   }
 }
 
 @media (min-width:1024px) {
-  .c1 {
+  .c2 {
     width: 600px;
   }
 }
 
 @media (min-width:1440px) {
-  .c1 {
+  .c2 {
     width: 800px;
   }
 }
@@ -953,6 +953,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
             "styledComponentId": "Modal__ModalWrapper-sc-300qpr-2",
             "target": "div",
             "toString": [Function],
+            "usesTheme": true,
             "warnTooManyClasses": [Function],
             "withComponent": [Function],
           }
@@ -964,7 +965,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
               role="dialog"
             >
               <article
-                class="c1 c2"
+                class="c2 c1"
               >
                 <header
                   class="c3 c4"
@@ -973,7 +974,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                     class="c5"
                   >
                     <h2
-                      class="c6 c7"
+                      class="c7 c6"
                     >
                       Modal title
                     </h2>
@@ -991,7 +992,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                 </footer>
                 <button
                   aria-label="close dialog"
-                  class="c10 c11"
+                  class="c11 c10"
                   type="button"
                 >
                   <span
@@ -1418,16 +1419,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                   "$$typeof": Symbol(react.forward_ref),
                   "Content": Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": Array [],
-                    "componentStyle": ComponentStyle {
-                      "componentId": "Content-sc-6vzg5x-0",
-                      "isStatic": false,
-                      "rules": Array [
-                        "margin:0;",
-                        [Function],
-                      ],
-                    },
-                    "defaultProps": Object {
+                    "_foldedDefaultProps": Object {
                       "theme": Object {
                         "baseFontSize": 16,
                         "spacing": Object {
@@ -1443,6 +1435,15 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                         },
                       },
                     },
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "Content-sc-6vzg5x-0",
+                      "isStatic": false,
+                      "rules": Array [
+                        "margin:0;",
+                        [Function],
+                      ],
+                    },
                     "displayName": "Card.Content",
                     "foldedComponentIds": Array [],
                     "propTypes": Object {
@@ -1452,12 +1453,28 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                     "styledComponentId": "Content-sc-6vzg5x-0",
                     "target": "div",
                     "toString": [Function],
+                    "usesTheme": false,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   },
                   "Description": [Function],
                   "Footer": Object {
                     "$$typeof": Symbol(react.forward_ref),
+                    "_foldedDefaultProps": Object {
+                      "theme": Object {
+                        "spacing": Object {
+                          "large": 24,
+                          "medium": 16,
+                          "small": 12,
+                          "xlarge": 32,
+                          "xsmall": 8,
+                          "xxlarge": 40,
+                          "xxsmall": 4,
+                          "xxxlarge": 48,
+                          "xxxsmall": 2,
+                        },
+                      },
+                    },
                     "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "Footer-pp401c-0",
@@ -1469,21 +1486,6 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                         ";",
                       ],
                     },
-                    "defaultProps": Object {
-                      "theme": Object {
-                        "spacing": Object {
-                          "large": 24,
-                          "medium": 16,
-                          "small": 12,
-                          "xlarge": 32,
-                          "xsmall": 8,
-                          "xxlarge": 40,
-                          "xxsmall": 4,
-                          "xxxlarge": 48,
-                          "xxxsmall": 2,
-                        },
-                      },
-                    },
                     "displayName": "Card.Footer",
                     "foldedComponentIds": Array [],
                     "propTypes": Object {
@@ -1493,21 +1495,13 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                     "styledComponentId": "Footer-pp401c-0",
                     "target": "footer",
                     "toString": [Function],
+                    "usesTheme": true,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   },
                   "Header": Object {
                     "$$typeof": Symbol(react.forward_ref),
-                    "attrs": Array [],
-                    "componentStyle": ComponentStyle {
-                      "componentId": "c3",
-                      "isStatic": false,
-                      "rules": Array [
-                        "display:flex;",
-                        [Function],
-                      ],
-                    },
-                    "defaultProps": Object {
+                    "_foldedDefaultProps": Object {
                       "theme": Object {
                         "spacing": Object {
                           "large": 24,
@@ -1521,6 +1515,15 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                           "xxxsmall": 2,
                         },
                       },
+                    },
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c3",
+                      "isStatic": false,
+                      "rules": Array [
+                        "display:flex;",
+                        [Function],
+                      ],
                     },
                     "displayName": "Card.Header",
                     "foldedComponentIds": Array [],
@@ -1531,6 +1534,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                     "styledComponentId": "c3",
                     "target": "header",
                     "toString": [Function],
+                    "usesTheme": true,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   },
@@ -1539,7 +1543,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                     "attrs": Array [],
                     "componentStyle": ComponentStyle {
                       "componentId": "HeaderText-sc-15zd9gn-0",
-                      "isStatic": true,
+                      "isStatic": false,
                       "lastClassName": "c5",
                       "rules": Array [
                         "flex-grow:1;flex-basis:0;",
@@ -1551,6 +1555,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                     "styledComponentId": "HeaderText-sc-15zd9gn-0",
                     "target": "div",
                     "toString": [Function],
+                    "usesTheme": false,
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
                   },
@@ -1576,6 +1581,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                   "styledComponentId": "Modal__ModalCard-sc-300qpr-0",
                   "target": [Function],
                   "toString": [Function],
+                  "usesTheme": true,
                   "warnTooManyClasses": [Function],
                   "withComponent": [Function],
                 }
@@ -2205,6 +2211,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                         "styledComponentId": "Card__CardWrapper-om5cci-0",
                         "target": "article",
                         "toString": [Function],
+                        "usesTheme": true,
                         "warnTooManyClasses": [Function],
                         "withComponent": [Function],
                       }
@@ -2410,7 +2417,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                     }
                   >
                     <article
-                      className="c1 c2"
+                      className="c2 c1"
                     >
                       <Header
                         theme={
@@ -2433,20 +2440,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                           forwardedComponent={
                             Object {
                               "$$typeof": Symbol(react.forward_ref),
-                              "attrs": Array [],
-                              "componentStyle": ComponentStyle {
-                                "componentId": "Header-sc-13ddtbk-0",
-                                "isStatic": false,
-                                "lastClassName": "c4",
-                                "rules": Array [
-                                  "display:flex;",
-                                  [Function],
-                                  "padding:",
-                                  [Function],
-                                  ";",
-                                ],
-                              },
-                              "defaultProps": Object {
+                              "_foldedDefaultProps": Object {
                                 "theme": Object {
                                   "spacing": Object {
                                     "large": 24,
@@ -2461,6 +2455,19 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                   },
                                 },
                               },
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Header-sc-13ddtbk-0",
+                                "isStatic": false,
+                                "lastClassName": "c4",
+                                "rules": Array [
+                                  "display:flex;",
+                                  [Function],
+                                  "padding:",
+                                  [Function],
+                                  ";",
+                                ],
+                              },
                               "displayName": "Header",
                               "foldedComponentIds": Array [
                                 "c3",
@@ -2472,6 +2479,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                               "styledComponentId": "Header-sc-13ddtbk-0",
                               "target": "header",
                               "toString": [Function],
+                              "usesTheme": true,
                               "warnTooManyClasses": [Function],
                               "withComponent": [Function],
                             }
@@ -2504,7 +2512,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                     "attrs": Array [],
                                     "componentStyle": ComponentStyle {
                                       "componentId": "HeaderText-sc-15zd9gn-0",
-                                      "isStatic": true,
+                                      "isStatic": false,
                                       "lastClassName": "c5",
                                       "rules": Array [
                                         "flex-grow:1;flex-basis:0;",
@@ -2516,6 +2524,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                     "styledComponentId": "HeaderText-sc-15zd9gn-0",
                                     "target": "div",
                                     "toString": [Function],
+                                    "usesTheme": false,
                                     "warnTooManyClasses": [Function],
                                     "withComponent": [Function],
                                   }
@@ -2533,7 +2542,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                           "attrs": Array [],
                                           "componentStyle": ComponentStyle {
                                             "componentId": "Title-hr7zki-0",
-                                            "isStatic": true,
+                                            "isStatic": false,
                                             "lastClassName": "c6",
                                             "rules": Array [
                                               "font-weight:700;line-height:1.25;",
@@ -2545,6 +2554,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                           "styledComponentId": "Title-hr7zki-0",
                                           "target": [Function],
                                           "toString": [Function],
+                                          "usesTheme": false,
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }
@@ -2591,6 +2601,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                                 "styledComponentId": "Title__Heading-sc-14fvmc0-0",
                                                 "target": "h2",
                                                 "toString": [Function],
+                                                "usesTheme": true,
                                                 "warnTooManyClasses": [Function],
                                                 "withComponent": [Function],
                                               }
@@ -2604,7 +2615,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                             }
                                           >
                                             <h2
-                                              className="c6 c7"
+                                              className="c7 c6"
                                             >
                                               Modal title
                                             </h2>
@@ -2622,6 +2633,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                       <Content
                         theme={
                           Object {
+                            "baseFontSize": 16,
                             "spacing": Object {
                               "large": 24,
                               "medium": 16,
@@ -2640,21 +2652,9 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                           forwardedComponent={
                             Object {
                               "$$typeof": Symbol(react.forward_ref),
-                              "attrs": Array [],
-                              "componentStyle": ComponentStyle {
-                                "componentId": "Content-sc-9f5o6t-0",
-                                "isStatic": false,
-                                "lastClassName": "c8",
-                                "rules": Array [
-                                  "margin:0;",
-                                  [Function],
-                                  "font-size:16px;max-height:70vh;overflow-y:auto;padding:",
-                                  [Function],
-                                  ";",
-                                ],
-                              },
-                              "defaultProps": Object {
+                              "_foldedDefaultProps": Object {
                                 "theme": Object {
+                                  "baseFontSize": 16,
                                   "spacing": Object {
                                     "large": 24,
                                     "medium": 16,
@@ -2668,6 +2668,19 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                   },
                                 },
                               },
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Content-sc-9f5o6t-0",
+                                "isStatic": false,
+                                "lastClassName": "c8",
+                                "rules": Array [
+                                  "margin:0;",
+                                  [Function],
+                                  "font-size:16px;max-height:70vh;overflow-y:auto;padding:",
+                                  [Function],
+                                  ";",
+                                ],
+                              },
                               "displayName": "Content",
                               "foldedComponentIds": Array [
                                 "Content-sc-6vzg5x-0",
@@ -2679,6 +2692,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                               "styledComponentId": "Content-sc-9f5o6t-0",
                               "target": "div",
                               "toString": [Function],
+                              "usesTheme": false,
                               "warnTooManyClasses": [Function],
                               "withComponent": [Function],
                             }
@@ -2686,6 +2700,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                           forwardedRef={null}
                           theme={
                             Object {
+                              "baseFontSize": 16,
                               "spacing": Object {
                                 "large": 24,
                                 "medium": 16,
@@ -2728,18 +2743,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                           forwardedComponent={
                             Object {
                               "$$typeof": Symbol(react.forward_ref),
-                              "attrs": Array [],
-                              "componentStyle": ComponentStyle {
-                                "componentId": "Footer-pp401c-0",
-                                "isStatic": false,
-                                "lastClassName": "c9",
-                                "rules": Array [
-                                  "padding:",
-                                  [Function],
-                                  ";",
-                                ],
-                              },
-                              "defaultProps": Object {
+                              "_foldedDefaultProps": Object {
                                 "theme": Object {
                                   "spacing": Object {
                                     "large": 24,
@@ -2754,6 +2758,17 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                   },
                                 },
                               },
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Footer-pp401c-0",
+                                "isStatic": false,
+                                "lastClassName": "c9",
+                                "rules": Array [
+                                  "padding:",
+                                  [Function],
+                                  ";",
+                                ],
+                              },
                               "displayName": "Card.Footer",
                               "foldedComponentIds": Array [],
                               "propTypes": Object {
@@ -2763,6 +2778,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                               "styledComponentId": "Footer-pp401c-0",
                               "target": "footer",
                               "toString": [Function],
+                              "usesTheme": true,
                               "warnTooManyClasses": [Function],
                               "withComponent": [Function],
                             }
@@ -3000,23 +3016,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                           forwardedComponent={
                             Object {
                               "$$typeof": Symbol(react.forward_ref),
-                              "attrs": Array [
-                                Object {
-                                  "icon": "close",
-                                },
-                              ],
-                              "componentStyle": ComponentStyle {
-                                "componentId": "Modal__CloseIcon-sc-300qpr-1",
-                                "isStatic": false,
-                                "lastClassName": "c10",
-                                "rules": Array [
-                                  [Function],
-                                  "position:absolute;",
-                                  [Function],
-                                  ";",
-                                ],
-                              },
-                              "defaultProps": Object {
+                              "_foldedDefaultProps": Object {
                                 "size": "medium",
                                 "skin": "neutral",
                                 "theme": Object {
@@ -3172,6 +3172,22 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                   },
                                 },
                               },
+                              "attrs": Array [
+                                Object {
+                                  "icon": "close",
+                                },
+                              ],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Modal__CloseIcon-sc-300qpr-1",
+                                "isStatic": false,
+                                "lastClassName": "c10",
+                                "rules": Array [
+                                  [Function],
+                                  "position:absolute;",
+                                  [Function],
+                                  ";",
+                                ],
+                              },
                               "displayName": "CloseIcon",
                               "foldedComponentIds": Array [
                                 "Button__IconButton-sc-1ovnfsw-2",
@@ -3185,6 +3201,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                               "styledComponentId": "Modal__CloseIcon-sc-300qpr-1",
                               "target": [Function],
                               "toString": [Function],
+                              "usesTheme": false,
                               "warnTooManyClasses": [Function],
                               "withComponent": [Function],
                             }
@@ -3849,6 +3866,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                     "styledComponentId": "Button__StyledButton-sc-1ovnfsw-1",
                                     "target": "button",
                                     "toString": [Function],
+                                    "usesTheme": true,
                                     "warnTooManyClasses": [Function],
                                     "withComponent": [Function],
                                   }
@@ -4061,7 +4079,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                               >
                                 <button
                                   aria-label="close dialog"
-                                  className="c10 c11"
+                                  className="c11 c10"
                                   disabled={false}
                                   onClick={[Function]}
                                   size="medium"
@@ -4289,6 +4307,7 @@ exports[`<Modal /> Snapshots should match the snapshot 1`] = `
                                           "styledComponentId": "c12",
                                           "target": [Function],
                                           "toString": [Function],
+                                          "usesTheme": true,
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
                                         }

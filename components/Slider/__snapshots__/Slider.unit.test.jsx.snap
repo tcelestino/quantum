@@ -45,7 +45,7 @@ exports[`<Slider /> Snapshots should match the snapshot when <Slider /> is disab
   white-space: nowrap;
 }
 
-.c1 {
+.c0 {
   position: relative;
 }
 
@@ -89,11 +89,11 @@ exports[`<Slider /> Snapshots should match the snapshot when <Slider /> is disab
   box-shadow: 0px 3px 5px -1px rgba(153,153,153,0.2),0px 6px 10px 0px rgba(153,153,153,0.14),0px 1px 18px 0px rgba(153,153,153,0.12);
 }
 
-.c0 {
+.c1 {
   width: 100%;
 }
 
-.c0 > div:first-child {
+.c1 > div:first-child {
   left: 50%;
   top: -41px;
 }
@@ -271,7 +271,7 @@ exports[`<Slider /> Snapshots should match the snapshot when have just one handl
   white-space: nowrap;
 }
 
-.c1 {
+.c0 {
   position: relative;
 }
 
@@ -315,11 +315,11 @@ exports[`<Slider /> Snapshots should match the snapshot when have just one handl
   box-shadow: 0px 3px 5px -1px rgba(153,153,153,0.2),0px 6px 10px 0px rgba(153,153,153,0.14),0px 1px 18px 0px rgba(153,153,153,0.12);
 }
 
-.c0 {
+.c1 {
   width: 100%;
 }
 
-.c0 > div:first-child {
+.c1 > div:first-child {
   left: 10%;
   top: -41px;
 }
@@ -497,7 +497,7 @@ exports[`<Slider /> Snapshots should match the snapshot when have two handles 1`
   white-space: nowrap;
 }
 
-.c1 {
+.c0 {
   position: relative;
 }
 
@@ -541,11 +541,11 @@ exports[`<Slider /> Snapshots should match the snapshot when have two handles 1`
   box-shadow: 0px 3px 5px -1px rgba(153,153,153,0.2),0px 6px 10px 0px rgba(153,153,153,0.14),0px 1px 18px 0px rgba(153,153,153,0.12);
 }
 
-.c0 {
+.c1 {
   width: 100%;
 }
 
-.c0 > div:first-child {
+.c1 > div:first-child {
   left: 20%;
   top: -41px;
 }
