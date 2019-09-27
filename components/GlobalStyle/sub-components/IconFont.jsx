@@ -5,6 +5,8 @@ const hasWindow = win => typeof win === 'undefined';
 
 // custom hooks
 const useWindow = () => {
+  // eslint-disable-next-line no-use-before-define
+  const window = window;
   const [win, setWindow] = useState(window);
 
   useEffect(() => {
